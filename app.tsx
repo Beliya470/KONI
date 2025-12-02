@@ -338,7 +338,7 @@ function USSDPhone() {
           </div>
         </div>
 
-        <div className="text-center text-gray-400 font-bold mb-2 text-[10px] tracking-[.2em]">KONIA</div>
+        <div className="text-center text-gray-400 font-bold mb-2 text-[10px] tracking-[.2em]">NOKIA</div>
 
         <div className="grid grid-cols-3 gap-2">
           {[1,2,3,4,5,6,7,8,9,'*',0,'#'].map(k=>(
